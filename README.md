@@ -1,0 +1,2 @@
+# boombox
+Ember Training Project
